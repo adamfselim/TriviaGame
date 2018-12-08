@@ -12,42 +12,42 @@ $(document).ready(function () {
         question: "What Year was Fry Frozen ?",
         answer: ["2005", "2001", "1990", "1999"],
         correct: "3",
-        image: ("assets/images/baconPancakes.jpg")
+        image: ("assets/images/FrozenFry.png")
     }, {
         question: "What is Bender's Middle Name?",
         answer: ["Flexible", "Santo", "Bending", "Steven"],
         correct: "2",
-        image: ("assets//images/baby.jpg")
+        image: ("assets//images/bender.jpg")
     }, {
         question: "What is the Name of the Amusement Park on the Moon?",
         answer: ["Luna Park", "Mooncity", "Moonsneyland", "Luna City"],
         correct: "0",
-        image: ("assets//images/hubble.jpg")
+        image: ("assets//images/LunaPark.png")
     }, {
         question: "Where is Robot Hell?",
         answer: ["New Mexico", "Colorado", "New Jersey", "Pennsylvania"],
         correct: "2",
-        image: ("assets//images/deepThoughts.png")
+        image: ("assets//images/RobotHell.jpg")
     }, {
         question: "What is the Name of the Planet Express Janitor? ",
         answer: ["Scruffy", "Fred", "Ralph", "Steven"],
         correct: "0",
         image: ("assets/images/scruffy.png")
     }, {
-        question: "Banging your Head Against a wall burns how many calories an hour?",
-        answer: ["10", "150", "25", "425"],
-        correct: "1",
-        image: ("assets//images/bang-head-on-wall.jpg")
-    }, {
-        question: "What is Lionel Richie's MOST Greatest Song?",
-        answer: ["All Night Long", "Deep Into the Night", "Carrabba Fiesta Forever", "Prince, formerly known as The Artist, formerly known as Prince"],
-        correct: "0",
-        image: ("assets//images/Lionel_Richie.jpg")
-    }, {
-        question: "What is your quest?",
-        answer: ["You seek the Holy Grail", "Blue, No...", "The airspeed of an unladen swallow", "I don't know that!"],
+        question: "What is the Instrument Fry Plays?",
+        answer: ["Piano", "Mecha-Saxaphone", "Holophoner", "Violin"],
         correct: "2",
-        image: ("assets//images/quest.jpeg")
+        image: ("assets//images/FryHolophoner.jpg")
+    }, {
+        question: "What is Fry's Pin Number?",
+        answer: ["1077", "1066", "2582", "1234"],
+        correct: "0",
+        image: ("assets//images/FryMoney.jpg")
+    }, {
+        question: "When Nixon Gives Everyone 300 Dollars What Does Fry Spend His Money On?",
+        answer: ["A Hovercar", "A New Jacket", "Coffee", "New Shoes"],
+        correct: "2",
+        image: ("assets//images/FryMoney.jpeg")
     }];
 
     
